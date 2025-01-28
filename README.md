@@ -55,6 +55,7 @@ For my final edits, I changed my background into a light tan colour, and did som
 
 I used the text wrap function to make sure the text would stay around the center of the window and not write out of the window bounbdary.
 Here is an example of my final outcome:
+
 <img width="380" alt="final_result" src="https://github.com/user-attachments/assets/70723ef6-f758-4d16-9426-1e14dc04bd74" />
 
 
