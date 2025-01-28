@@ -1,5 +1,6 @@
 # workshop-task-8
 # APIs
+link to completed web page -> (https://glovving.github.io/workshop-task-8/)
 ## Goals for this workshop:
 - Create a sketch that makes an API call to gather data from an external source. Here is a list of free-to-use APIsLinks to an external site.which do not require authentication.
 - Visual elements of the sketch should be determined by data retrieved from the external source.
@@ -8,7 +9,7 @@
 ## Notes and Planning:
 Here are some notes I took during the demonstration:
 
-(Add pic of note)
+<img width="400" alt="note" src="https://github.com/user-attachments/assets/9c0daf51-ad82-43f8-86d1-73737dd3b6aa" />
 
 ### Plan:
 - Connect to a disctionary api
